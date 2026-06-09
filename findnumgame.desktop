@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=FindNumGame
+Comment=Игра на интуицию и визуальынй рассчет пространства на заданной линии
+Exec=FindNumGame
+Icon=FindNumGame
+Terminal=false
+Categories=Game;LogicGame;
+Keywords=game;number;guess;line;
